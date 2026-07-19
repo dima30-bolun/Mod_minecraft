@@ -1,0 +1,92 @@
+{
+  "music.emberglass": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.mossveil": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.tideclock": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.skyforge": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.umbra": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.frostloom": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.brasshollow": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.starfall": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.mirrordune": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  },
+  "music.nexus": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/silence",
+        "stream": true
+      }
+    ]
+  }
+}

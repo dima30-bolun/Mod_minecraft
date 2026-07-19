@@ -1,0 +1,36 @@
+{
+  "resource_pack_name": "Echoes of the Nexus",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "emberglass_blade": {
+      "textures": "textures/items/emberglass_blade"
+    },
+    "mossveil_blade": {
+      "textures": "textures/items/mossveil_blade"
+    },
+    "tideclock_blade": {
+      "textures": "textures/items/tideclock_blade"
+    },
+    "skyforge_blade": {
+      "textures": "textures/items/skyforge_blade"
+    },
+    "umbra_blade": {
+      "textures": "textures/items/umbra_blade"
+    },
+    "frostloom_blade": {
+      "textures": "textures/items/frostloom_blade"
+    },
+    "brasshollow_blade": {
+      "textures": "textures/items/brasshollow_blade"
+    },
+    "starfall_blade": {
+      "textures": "textures/items/starfall_blade"
+    },
+    "mirrordune_blade": {
+      "textures": "textures/items/mirrordune_blade"
+    },
+    "nexus_blade": {
+      "textures": "textures/items/nexus_blade"
+    }
+  }
+}

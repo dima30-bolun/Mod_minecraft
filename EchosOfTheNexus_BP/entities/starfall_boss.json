@@ -1,0 +1,38 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "nexus:starfall_boss",
+      "is_spawnable": true,
+      "is_summonable": true
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [
+          "monster",
+          "nexus_boss"
+        ]
+      },
+      "minecraft:health": {
+        "value": 250,
+        "max": 250
+      },
+      "minecraft:attack": {
+        "damage": 12
+      },
+      "minecraft:movement": {
+        "value": 0.25
+      },
+      "minecraft:collision_box": {
+        "width": 1.2,
+        "height": 2.4
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/starfall_boss.json"
+      },
+      "minecraft:nameable": {}
+    },
+    "component_groups": {},
+    "events": {}
+  }
+}

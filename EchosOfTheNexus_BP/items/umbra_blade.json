@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "nexus:umbra_blade",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.sword"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Umbra Fen Blade"
+      },
+      "minecraft:icon": "umbra_blade",
+      "minecraft:max_stack_size": 1,
+      "minecraft:damage": 8
+    }
+  }
+}
