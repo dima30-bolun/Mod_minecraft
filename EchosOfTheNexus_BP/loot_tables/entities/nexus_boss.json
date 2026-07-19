@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "nexus:nexus_blade",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

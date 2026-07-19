@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "nexus:frostloom_blade",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.sword"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Frostloom Steppe Blade"
+      },
+      "minecraft:icon": "frostloom_blade",
+      "minecraft:max_stack_size": 1,
+      "minecraft:damage": 8
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Echoes of the Nexus RP",
+    "description": "Resources for Echoes of the Nexus.",
+    "uuid": "c114dffb-ed84-4b1a-a10e-badbe31c6b2e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "85b5d98f-6cac-4863-b52c-34f5cebbaf70",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "51e9dbed-4c78-44f9-b8b4-4fd2066198e8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

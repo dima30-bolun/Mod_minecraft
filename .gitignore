@@ -1,0 +1,4 @@
+# Generated distributables and binary assets. Run `python3 scripts/build.py` to recreate them.
+dist/
+EchosOfTheNexus_RP/textures/items/*.png
+EchosOfTheNexus_RP/sounds/music/*.wav

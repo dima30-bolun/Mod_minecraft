@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "nexus:mossveil_blade",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.sword"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Mossveil Archive Blade"
+      },
+      "minecraft:icon": "mossveil_blade",
+      "minecraft:max_stack_size": 1,
+      "minecraft:damage": 8
+    }
+  }
+}
